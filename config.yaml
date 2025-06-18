@@ -1,0 +1,9 @@
+model_url: "http://localhost:11434"
+storage_backend: "storage.sqlite_adapter.SQLiteStorage"
+enum_list:
+  - gaming
+  - productivity
+  - aesthetics
+  - accessory
+  - hardware
+  - display 
