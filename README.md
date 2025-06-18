@@ -1,6 +1,6 @@
-# Recommender Engine
+# LLM Recommendation Engine
 
-An open source recommendation service that converts any text image or video description into clean tags with a local LLM then serves personalized results using light vector math. Copy paste into your stack and chill.
+An open source recommendation service that converts any text image or video description into clean tags with a local LLM then serves personalized results using light vector math. Copy paste into your stack and chill. It uses the same modern approach that companies like X (using Grok for recommendations) and Meta (using Llama for recommendations) are using.
 
 ## Why you want it
 
