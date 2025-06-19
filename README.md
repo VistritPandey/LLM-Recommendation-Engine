@@ -30,7 +30,7 @@ Swagger UI pops up at http://127.0.0.1:8000/docs
 * Ollama running with your fave model
 
 ```bash
-ollama pull llama3
+ollama pull llama3.2
 ollama serve
 ```
 
